@@ -1,0 +1,158 @@
+*************************************************************12/01/2022*********************************************************
+Introduction to OOps:-
+*****************************************
+In Erliger days, in order to write the bigger bigger logic we used  two Approach to write the code ,
+
+
+1.mono-lithic Approach :when we write the code , in single script inself.
+
+2.poly-lithic Approach : when we write the entire code, as  a group of small small script then it is called as poly-lithic Approach
+		1.Using Functional Approach.
+		2.Using Object Oriented Approach.
+		3.Using modular Approach.
+	 	4.and other Approach.
+		
+		These All approaches for writing the code, is called as ,
+		Programming Paradigam or Methodologei, or Descipline, or Technique,
+		Programming Mechanism,
+		
+What is  Object Oriented System?
+	1.It is a programming Paradigam or Mechanism for developing Software Highly Scalable Application.
+
+
+Oject Oriented Programming Language:---
+Any Programming Language which can proivide opps supporet , with all feature Implement by opps that language is called as OOPL.(Object oriented Programming Language)
+		
+		Eg : C++,Java,C#,PHP ,Python....
+		
+Pillars of Object Oriented Programming Language,
+********************************************
+1.Encapsulation
+2.Data Hiding
+3.Data Abstaction 
+4.Abstaction
+5.Inheritence
+6.Has-Relationship
+7.is-Relationship
+8.Class and Object
+9.Polymorphism
+10.Dependency
+11.Exeception Handling
+		
+After the object oriented Programming System has left its scope :it leaves some Elements as a scrap.The Elements are then Re-used and Converted into Re-useble Component are There Re-useble Component of, opps are called as design patterns 		
+		
+There are Total 23 design  pattern (Re-useble Components)
+		Digramm
+		
+1.Structral
+	1.Decorater
+	2.Bridge
+	3.Adapter
+	4.Flywight
+	5.Facade
+	6.Composite
+	7.proxy
+2.Behavioural
+.........
+3.Creatinal
+
+...........
+
+These are wrriten 4 Writers and Called as Gang-of 4
+		
+Advantage of OOPs:--
+*******************************
+1.Easy to Understand 
+2.Bottom to top Approach
+3.Security
+4.Reusability 
+5.Scope and Memory Management
+6.Standarisation		
+		
+1.Que.is php a oop language? yes over-wiev details No
+2.Que.is Java a oop language? yes over-wiev details No
+3.Que.is C#(.net) a oop language? yes over-wiev details No
+4.Que.is C++ a Object Oriented language? yes over-wiev details No
+5.Que.is smalltalk a Object Oriented language? yes over-wiev details YEs
+		
+Any :Programing is said to fully oops Based if it does not have primitve Datatype. and if it has then it should be on the basis of, class and object.		
+		
+********************************************************************************
+13/01/2022
+************************************************************************
+How 		
+
+
+*******************************************************************
+19/01/2022
+***************************************
+Basic terms of inheritence
+------------------------
+1.multilevel class
+2.Independency
+3.Depndent class (Relationship) :if any class utilies the features of any exiting ready -made class then this is called as c dependent class and it set-up  a relationship B/W both 
+
+
+Questuion : How will you to sort in array
+Ans :using Pre _defined Functional
+1.Sort() :sorting on values  :assending order
+2.rsort() : sorting on values in reverse order : desending order.
+
+2.asort() :associative sorting on values
+3.ksort (): sort the in Asending order 
+
+4.asort() :reverse sorting on the asending order.
+5.krsort():reverse sorting on associative array
+
+Ans : Using user-defined Function
+
+1. Has Relationship :it is logical relationship B/W one or more class .
+	 this is by-defaut relationshipand class Inheritence.
+	 
+	 in order to achive Inheritence we need extends  Keyword.
+	 
+	 <child-class> will all Properties [extends] from <parents>
+	 
+	in order to achive Inheritence we requried ,at -least Two multi-level class.
+	
+
+   1.Parents class :This is Independent Class
+   2.child-class : This is Depndent 
+   
+   Note :
+   Parent Class :Master class,Base class,Super class,Drived Class,Father Class,Inherited Class
+   
+   Child Class : Sub class,inheriteng class,Driving class,son class,
+   
+2.Is relationship :it is Physical relationship B/W one or more class .
+		this is explicit relationshipand abd called as composition /Aggregation 
+	 
+		in order to achive Is-relationship we need to exilipicitly make object of any class which want to use , inside one class
+	 
+		
+		Inside function case:-
+		class A{
+		
+		public function B(){
+		
+			$b = new classB();
+			$b->someMethod();
+		
+		}
+		}
+
+Types Of Inheritence :-
+***************************
+1.Single-Inheritence
+2.Multi-level Inheritence
+3.Heirichal Inheritence
+4.Multiple Inheritence
+5.Hybried Inheritence
+6.Cyclic Inheritence
+
+One more the best use of Inheritence is Applied on flie Inclusion  and in laravel this Concept Is called Template Inheritence
+
+What is file-inclusion:--
+Exxtending the source code from one file another is called as file-inclusion
+		
+		

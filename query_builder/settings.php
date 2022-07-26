@@ -1,0 +1,10 @@
+<?php
+##---------------------------------------------------------------------
+define('HOST','127.0.0.1');
+define('USER','user@gmail.com');
+define('PASSWORD','123');
+define('DBNAME','santosh');    
+define('DEBUG','true');
+define('BASE_URL','http://localhost:7000');
+#------------------------------------------------------------------------
+?>
